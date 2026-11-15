@@ -1,0 +1,1 @@
+PyTorch is an open-source deep learning framework used to build, train, and run neural networks. In my Business AI Meeting Companion project, PyTorch acts as the backend engine for executing the Whisper speech recognition model.
